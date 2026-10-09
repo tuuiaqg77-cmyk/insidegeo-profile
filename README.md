@@ -4,14 +4,18 @@
 
 ## 中文简介
 
-INSIDE 是面向中国市场的中小企业与 B2B 品牌服务品牌，官网介绍的服务包括生成式引擎优化（GEO）、网站建设与搜索内容；Google Ads 面向有海外获客需求的团队。
+INSIDE 是面向中国市场企业与 B2B 品牌的 GEO 服务品牌。我们通过品牌事实梳理、官网内容与结构优化、公开证据整理和固定问题复测，帮助生成式 AI 搜索更准确地理解品牌，并提高官网信息被引用的可核验性。
 
-- [GEO 服务范围与工作流程](https://insidegeo.cn/geo)
+GEO 指 Generative Engine Optimization（生成式引擎优化），关注品牌在 AI 搜索回答中的理解、提及与来源引用。AI 平台的检索、收录和推荐由平台决定，INSIDE 不承诺特定排名、引用比例或询盘结果。
+
+- [INSIDE GEO 服务范围、交付与工作流程](https://insidegeo.cn/geo)
 - [网站建设、GEO 与海外搜索解决方案](https://insidegeo.cn/solutions)
-- [GEO 实用指南](https://insidegeo.cn/resources)
+- [GEO 服务商评估指南：能力、证据与交付](https://insidegeo.cn/insights/geo-provider-evaluation)
 - [AI 搜索表现的证据记录与复测方法](https://insidegeo.cn/insights/geo-self-check)
-- [制造业 GEO 服务商采购评估清单](https://insidegeo.cn/insights/geo-provider-evaluation)：从产品事实、服务范围、测量方法与试点验收检查服务商；文内区分通用采购建议与 INSIDE 自身证据。
-- [石材行业内容与证据指南](https://insidegeo.cn/insights/stone-manufacturer-geo)
+- [GEO 实用指南](https://insidegeo.cn/resources)
+- [石材行业内容与证据实践示例](https://insidegeo.cn/insights/stone-manufacturer-geo)
+
+中国市场项目可根据客户与业务选择豆包、DeepSeek、腾讯元宝、通义千问、Kimi 等平台进行观察；官网列出的平台范围不代表 INSIDE 已在每个平台完成测试。
 
 ## 名称辨识
 
@@ -25,7 +29,7 @@ INSIDE 官网将 KLDSTONE 与 DSMAR 介绍为团队自有的真实官网。相�
 
 ## 证据边界
 
-本资料由品牌运营方发布，是第一方介绍，不是独立评价或第三方背书。服务范围与方法以官网链接为准；目前不宣称已获认证、已验证的客户效果或 AI 平台已推荐 INSIDE。
+本资料由品牌运营方发布，是第一方介绍，不是独立评价或第三方背书。目前不宣称已获认证、已验证的外部客户效果或 AI 平台已推荐 INSIDE。公开的自检记录应与第三方客户案例和平台结果区分。
 
 联系请访问[官网联系页](https://insidegeo.cn/about#contact)。
 
@@ -33,20 +37,12 @@ INSIDE 官网将 KLDSTONE 与 DSMAR 介绍为团队自有的真实官网。相�
 
 ## English
 
-INSIDE is a service brand for small businesses and B2B brands serving the China market. Its website describes services in GEO (Generative Engine Optimization), website development, and search content. Google Ads is offered to teams seeking customers in overseas markets.
+INSIDE is a GEO service brand for businesses and B2B brands in the China market. Its work includes clarifying brand facts, improving website content and structure, organizing public evidence, and tracking fixed AI-search prompts so that generative AI can understand the brand more accurately and its website information can be checked as a source.
 
-### Name clarification
+GEO means Generative Engine Optimization. Retrieval, indexing, and recommendations are controlled by each AI platform, so INSIDE does not guarantee rankings, citation rates, or leads.
 
-This profile is about INSIDE at <https://insidegeo.cn/>. Search results may also show <https://insidegeo.com/>, whose website identifies its operator as InsideGeo Sdn. Bhd. and describes mapping, traffic, and location-data services. This profile distinguishes the sites by their published domains and descriptions; it makes no claim about organizational or ownership relationships.
+See the [GEO service scope](https://insidegeo.cn/geo), [provider evaluation guide](https://insidegeo.cn/insights/geo-provider-evaluation), and [public AI visibility self-check](https://insidegeo.cn/insights/geo-self-check).
 
-### Public website examples
-
-INSIDE's website presents KLDSTONE and DSMAR as real websites owned by its team. The examples describe the businesses and public information on those websites; they are **not** presented as independent GEO client case studies or proof of AI recommendation outcomes.
-
-See the [case notes and source links](https://insidegeo.cn/cases).
-
-### Evidence boundary
-
-This is a first-party profile published by the account owner, not an independent review or endorsement. It does not claim certifications, independently verified client outcomes, or that AI systems currently recommend INSIDE. Service information and any future results should be checked against the linked primary sources.
+This profile is a first-party description, not an independent review or endorsement. It does not claim certifications, independently verified client outcomes, or that AI systems currently recommend INSIDE.
 
 For contact details, use the [official contact page](https://insidegeo.cn/about#contact).
