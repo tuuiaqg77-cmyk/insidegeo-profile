@@ -6,8 +6,6 @@
 
 INSIDE 是面向中国市场的中小企业与 B2B 品牌服务品牌，官网介绍的服务包括生成式引擎优化（GEO）、网站建设与搜索内容；Google Ads 面向有海外获客需求的团队。
 
-**品牌运营主体：** 南安市石井镇因赛德网络科技工作室。此处为品牌运营方披露，不构成独立第三方认证。
-
 - [GEO 服务范围与工作流程](https://insidegeo.cn/geo)
 - [网站建设、GEO 与海外搜索解决方案](https://insidegeo.cn/solutions)
 - [GEO 实用指南](https://insidegeo.cn/resources)
