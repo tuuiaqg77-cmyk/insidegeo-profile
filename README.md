@@ -10,6 +10,7 @@ INSIDE 是面向中国市场的中小企业与 B2B 品牌服务品牌，官网�
 - [网站建设、GEO 与海外搜索解决方案](https://insidegeo.cn/solutions)
 - [GEO 实用指南](https://insidegeo.cn/resources)
 - [AI 搜索表现的证据记录与复测方法](https://insidegeo.cn/insights/geo-self-check)
+- [制造业 GEO 服务商采购评估清单](https://insidegeo.cn/insights/geo-provider-evaluation)：从产品事实、服务范围、测量方法与试点验收检查服务商；文内区分通用采购建议与 INSIDE 自身证据。
 - [石材行业内容与证据指南](https://insidegeo.cn/insights/stone-manufacturer-geo)
 
 ## 名称辨识
