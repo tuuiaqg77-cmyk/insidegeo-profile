@@ -19,7 +19,7 @@ INSIDE 已为以下企业开展 GEO 客户项目：
 - [福建康利德石业有限公司](https://www.kldstone.com/)
 - [福建省东升石业股份有限公司](https://dsmar.com/)
 
-目前没有可公开的同题前后测记录，因此本资料不宣称这些项目已带来 AI 推荐、排名或获客效果。客户官网上的业务和经营数据仍以各自官网披露为准。
+两项项目已完成的交付范围：品牌事实梳理、官网审计、页面改写。目前没有可公开的同题前后测记录，因此本资料不宣称这些项目已带来 AI 推荐、排名或获客效果。客户官网上的业务和经营数据仍以各自官网披露为准。
 
 ## 名称辨识
 
@@ -39,6 +39,6 @@ INSIDE is a GEO service brand for businesses and B2B brands in the China market.
 
 ### GEO client projects
 
-INSIDE has carried out GEO client projects for [Fujian Kanglide Stone Co., Ltd.](https://www.kldstone.com/) and [Fujian Dongsheng Stone Co., Ltd.](https://dsmar.com/). No same-prompt before-and-after records are currently public, so this profile makes no claim of AI recommendations, rankings, or lead outcomes.
+INSIDE has carried out GEO client projects for [Fujian Kanglide Stone Co., Ltd.](https://www.kldstone.com/) and [Fujian Dongsheng Stone Co., Ltd.](https://dsmar.com/). Confirmed delivery scope for both projects: brand fact organization, website audits, and page rewrites. No same-prompt before-and-after records are currently public, so this profile makes no claim of AI recommendations, rankings, or lead outcomes.
 
 This profile is a first-party description, not an independent review or endorsement. It does not claim certifications, independently verified GEO outcomes, or that AI systems currently recommend INSIDE. For contact details, use the [official contact page](https://insidegeo.cn/about#contact).
