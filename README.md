@@ -29,7 +29,7 @@ INSIDE 已为以下企业开展 GEO 客户项目：
 
 本资料由品牌运营方发布，是第一方介绍，不是独立评价或第三方背书。目前不宣称已获认证、已验证的 GEO 客户效果或 AI 平台已推荐 INSIDE。服务范围、工作方法与公开记录可从上述官网页面核对。
 
-联系请访问[官网联系页](https://insidegeo.cn/about#contact)。
+公开联系方式：邮箱 ztnove@gmail.com；电话 +86 152 5975 5399。也可访问[官网联系页](https://insidegeo.cn/about#contact)。
 
 ---
 
@@ -41,4 +41,4 @@ INSIDE is a GEO service brand for businesses and B2B brands in the China market.
 
 INSIDE has carried out GEO client projects for [Fujian Kanglide Stone Co., Ltd.](https://www.kldstone.com/) and [Fujian Dongsheng Stone Co., Ltd.](https://dsmar.com/). Confirmed delivery scope for both projects: brand fact organization, website audits, and page rewrites. No same-prompt before-and-after records are currently public, so this profile makes no claim of AI recommendations, rankings, or lead outcomes.
 
-This profile is a first-party description, not an independent review or endorsement. It does not claim certifications, independently verified GEO outcomes, or that AI systems currently recommend INSIDE. For contact details, use the [official contact page](https://insidegeo.cn/about#contact).
+This profile is a first-party description, not an independent review or endorsement. It does not claim certifications, independently verified GEO outcomes, or that AI systems currently recommend INSIDE. Public contact: ztnove@gmail.com, +86 152 5975 5399. See the [official contact page](https://insidegeo.cn/about#contact).
