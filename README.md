@@ -1,4 +1,4 @@
-# INSIDE
+# INSIDE GEO｜中国市场生成式引擎优化服务
 
 **官方网站 / Official website:** <https://insidegeo.cn/>
 
